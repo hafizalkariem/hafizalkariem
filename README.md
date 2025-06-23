@@ -111,8 +111,8 @@ const currentFocus = {
 
 <div align="center">
   
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/[USERNAME])
-[![PayPal](https://img.shields.io/badge/-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/[USERNAME])
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/hafizalkariem)
+[![PayPal](https://img.shields.io/badge/-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/hafizalkariem)
 
 </div>
 
@@ -127,8 +127,8 @@ const currentFocus = {
   
 ### 🌟 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-![Profile Views](https://komarev.com/ghpvc/?username=[USERNAME]&color=brightgreen&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/[USERNAME]?style=social)](https://github.com/[USERNAME])
+![Profile Views](https://komarev.com/ghpvc/?username=hafizalkariem&color=brightgreen&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/hafizalkariem?style=social)](https://github.com/hafizalkariem)
 
 **Thank you for visiting my profile! Have a great day! 😊**
 
