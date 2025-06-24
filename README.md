@@ -1,4 +1,4 @@
-# Hi 👋, I'm [Nama Anda]
+# Hi 👋, I'm Hafizalkariem
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;Software+Engineer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
