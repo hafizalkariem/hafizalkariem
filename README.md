@@ -90,8 +90,8 @@ const currentFocus = {
 
 <div align="center">
   
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=hafizalkariem&repo=RBC-Project&theme=radical&hide_border=true)](https://github.com/[USERNAME]/[REPO_NAME])
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=hafizalkariem&repo=RBC-Project&theme=radical&hide_border=true)](https://github.com/[USERNAME]/[REPO_NAME])
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=hafizalkariem&repo=RBC-Project&theme=radical&hide_border=true)](https://github.com/hafizalkariem/RBC-Project)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=hafizalkariem&repo=RBC-Project&theme=radical&hide_border=true)](https://github.com/hafizalkariem/RBC-Project)
 
 </div>
 
